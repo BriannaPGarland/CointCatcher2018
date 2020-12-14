@@ -1,4 +1,3 @@
-// Brianna Garland, Maddy Cohen, Sanjana Chopra, Lauren Chew 
 //2018 Programming Final Project 
 //This is an java applet that is a game called coin catcher that has it so the user can move a character back 
 //and forth across the screen to catch falling coins. if they catch them their score goes up but if they don't
